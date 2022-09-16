@@ -12,26 +12,10 @@ SVGDefsElementas;
 das;
 <h2>hola</h2>;
 
-dasdsawq1e
-XMLDocumentsad
-addEventListenerasd
-asyncxz
-cacheszx
-daseqw
-else
-assdsda
-das
-SafeArraywqe
-WebGLQuerywqe
-qwe
-qwd
-aswqe
-ewqe
-ewqe
-<p>hola de nuevo</p> 
-sigue diciendo error 
-,,xxxx  
-
-
-222hhfff 
-hhh
+dasdsawq1e;
+XMLDocumentsad;
+addEventListenerasd;
+asyncxz;
+cacheszx;
+daseqwassdsda;
+das;
